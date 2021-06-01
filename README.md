@@ -36,9 +36,11 @@ This project is made up of 1 data folder that contains the datasets used for thi
 ## Analysis & Results <a name="analysis_results"></a>
 
 Accuracy vs. Number of Latent Features  
-
+![acc](https://user-images.githubusercontent.com/16907846/120257880-f4015180-c288-11eb-997e-4ebaf3335276.JPG)
 
 Training and testing errors.
+![acc2](https://user-images.githubusercontent.com/16907846/120257889-fa8fc900-c288-11eb-976e-325a34fa0a7e.JPG)
+
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
